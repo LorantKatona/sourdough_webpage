@@ -73,12 +73,12 @@
         sourdough starter (which consists of flour and water), salt and flour.
         There is no yeast, no milk, no oils and no sweeteners.
         It’s about as natural as you get when it comes to bread. </p>
-    <img src="IMG_20181226_112720.jpg" alt="A whole bread" style="width:100%">
+    <img src="kenyeres_kep.jpg" alt="A whole bread" style="width:100%">
   </div>
 
   <div class="right">
     <h2>What?</h2>
-    <p>Bakery pporducts in which only naturally occuring yeast us used</p>
+    <p>Bakery porducts in which only naturally occuring yeast us used</p>
     <h2>Where?</h2>
     <p>In the larger capital area of Finland alias Uusimaa.</p>
     <h2>Price?</h2>
