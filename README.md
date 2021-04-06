@@ -78,11 +78,11 @@
 
   <div class="right">
     <h2>What?</h2>
-    <p>Cinque Terre comprises five villages: Monterosso, Vernazza, Corniglia, Manarola, and Riomaggiore.</p>
+    <p>Bakery pporducts in which only naturally occuring yeast us used</p>
     <h2>Where?</h2>
-    <p>On the northwest cost of the Italian Riviera, north of the city La Spezia.</p>
+    <p>In the larger capital area of Finland alias Uusimaa.</p>
     <h2>Price?</h2>
-    <p>The Walk is free!</p>
+    <p>Each product has different price based on its weight and baling complexity</p>
   </div>
 </div>
 
